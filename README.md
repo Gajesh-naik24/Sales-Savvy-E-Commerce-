@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+  Built Sales Savvy, a full-stack e-commerce web application for small and medium businesses using React.js (frontend) and Java Spring Boot (backend).
+
+Developed modules for product management, user authentication, order tracking, and secure payment integration using Razorpay.
+
+Ensured scalable design, responsive UI, and smooth customer/admin experience with MySQL, Spring Security, and RESTful APIs.
