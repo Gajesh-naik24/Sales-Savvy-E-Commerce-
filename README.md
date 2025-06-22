@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
   Built Sales Savvy, a full-stack e-commerce web application for small and medium businesses using React.js (frontend) and Java Spring Boot (backend).
 
-Developed modules for product management, user authentication, order tracking, and secure payment integration using Razorpay.
+  Developed modules for product management, user authentication, order tracking, and secure payment integration using Razorpay.
 
-Ensured scalable design, responsive UI, and smooth customer/admin experience with MySQL, Spring Security, and RESTful APIs.
+  Ensured scalable design, responsive UI, and smooth customer/admin experience with MySQL, Spring Security, and RESTful APIs.
