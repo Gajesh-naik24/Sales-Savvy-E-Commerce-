@@ -45,7 +45,7 @@ Currently, two official plugins are available:
 ### 🔹 Integration & Security
 - JWT (JSON Web Tokens)
 - HTTPS Protocol
-- Razorpay / PayPal / Stripe APIs
+- Razorpay (Payment)
 
 ### 🔹 Tools
 - Postman (for API testing)
